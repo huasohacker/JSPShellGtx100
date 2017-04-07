@@ -1,4 +1,4 @@
-%@   page import="java.util.Properties"
+<%@   page import="java.util.Properties"
 %><%@ page import="java.util.Enumeration"
 %><%@ page import="java.io.*"
 %><%@ page import="java.util.*"
