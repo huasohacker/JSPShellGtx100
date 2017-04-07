@@ -5,7 +5,7 @@ Shell en JSP para uso de PoCs
 Características:
 	
 	- Información del Servidor donde se alojo la shell.
-	- Uploader.
+	- Navegador de Archivos.
 
 ![Screenshot](1.png)
 	
