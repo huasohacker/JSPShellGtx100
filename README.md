@@ -1,11 +1,11 @@
 # JSPShellGtx100
 
-Shell en JSP para uso de PoCs
+Shell in JSP for use of PoCs
 
-Características:
-	
-	- Información del Servidor donde se alojo la shell.
-	- Navegador de Archivos.
+Characteristics:
+
+        - Server Information where the shell is hosted.
+        - File Browser.
 
 ![Screenshot](1.png)
 	
