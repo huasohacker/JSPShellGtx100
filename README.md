@@ -1,4 +1,4 @@
-# JSPShellGtx100
+# JSPShellGtx100 (Spanish)
 
 Shell in JSP for use of PoCs
 
