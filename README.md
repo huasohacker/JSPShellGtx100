@@ -2,9 +2,9 @@
 
 Shell en JSP 
 
-Caracteristicas :
+Características :
 
-        - Informacion del Servidor
+        - Información del Servidor
         - File Browser.
 
 ![Screenshot](1.png)
